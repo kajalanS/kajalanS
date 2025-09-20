@@ -202,7 +202,7 @@ I am a passionate frontend developer with a keen interest in creating engaging u
 - **Website & Portfolio:** [kajalan.com](https://kajalan.com)
 - **Technical Blog:** [ksoftm.com](https://ksoftm.com/)
 - **Twitter / X:** [@kajalan](https://twitter.com/kajalan)
-- **LinkedIn:** [linkedin.com/in/kajalan](https://www.linkedin.com/in/kajalan)
+- **LinkedIn:** [linkedin.com/in/kajalan-sivarasa](https://www.linkedin.com/in/kajalan-sivarasa/)
 
 ---
 
